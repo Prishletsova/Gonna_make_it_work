@@ -6,4 +6,6 @@
 
 [Практическая работа № 1.1](https://colab.research.google.com/drive/1WRS6xiJhoGZ1zarfJZtF7UXkkuDtBJXE)
 
-[Практическая работа № 1.2]()
+[Практическая работа № 1.2](https://colab.research.google.com/drive/1AkrgZ1LFp5GfL4CPiatFKO7cu9EI5Nre)
+
+[Практическая работа № 1.3]()
