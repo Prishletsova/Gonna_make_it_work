@@ -5,3 +5,5 @@
 [Лекция 10.02](https://colab.research.google.com/drive/1D83Vwcnyp-1ZzU7uMyzHQwJoqDnN6kLi)
 
 [Практическая работа № 1.1](https://colab.research.google.com/drive/1WRS6xiJhoGZ1zarfJZtF7UXkkuDtBJXE)
+
+[Практическая работа № 1.2]()
