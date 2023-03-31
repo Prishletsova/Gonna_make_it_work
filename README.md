@@ -6,7 +6,7 @@
 
 [Лекция 10.03](https://colab.research.google.com/drive/1SWAxsSOBgxlCpTg66Mb2pcQHTE_AbJyI#scrollTo=TkTGKpbUas2i)
 
-[Занятие 2. Парадигмы ООП. Наследование]()
+[Занятие 2. Парадигмы ООП. Наследование](https://colab.research.google.com/drive/1QFQjgzWbJSLW6HujJPR9-y_hpNHap6Xc#scrollTo=rbnudMuZfGsC)
 
 [Лекция 24.03]()
 
