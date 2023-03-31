@@ -4,7 +4,7 @@
 
 [Лекция 10.02](https://colab.research.google.com/drive/1D83Vwcnyp-1ZzU7uMyzHQwJoqDnN6kLi)
 
-[Лекция 10.03]()
+[Лекция 10.03](https://colab.research.google.com/drive/1SWAxsSOBgxlCpTg66Mb2pcQHTE_AbJyI#scrollTo=TkTGKpbUas2i)
 
 [Занятие 2. Парадигмы ООП. Наследование]()
 
