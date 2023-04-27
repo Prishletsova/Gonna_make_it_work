@@ -8,7 +8,7 @@
 
 [Занятие 2. Парадигмы ООП. Наследование](https://colab.research.google.com/drive/1QFQjgzWbJSLW6HujJPR9-y_hpNHap6Xc#scrollTo=rbnudMuZfGsC)
 
-[Лекция 24.03]()
+[Лекция 24.03](https://colab.research.google.com/drive/1SKYqdEzkb1d9i1N6mj6h9MwObJwrtNfw#scrollTo=dwYlaOkSgrdv)
 
 [Лекция 07.04]()
 
