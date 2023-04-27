@@ -10,7 +10,7 @@
 
 [Лекция 24.03](https://colab.research.google.com/drive/1SKYqdEzkb1d9i1N6mj6h9MwObJwrtNfw#scrollTo=dwYlaOkSgrdv)
 
-[Лекция 07.04]()
+[Лекция 07.04](https://colab.research.google.com/drive/1K_XUUPFGV316zxT4UvQMv7Cy5B7Ha0-4#scrollTo=1cA2D86IoyaH)
 
 [Лекция 21.04]()
 
