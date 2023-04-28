@@ -14,6 +14,8 @@
 
 [Лекция 21.04. Задание с Берсерком](https://colab.research.google.com/drive/1qbqxRqv_Gmwq7Q4vVtnptyk_xa8LZ7eA#scrollTo=0kDGihMZi-VY)
 
+[Занятие 3. Парадигмы ООП. Инкапсуляция]()
+
 -------------------------------------------------------------------------------------
 
 [Практическая работа № 1.1](https://colab.research.google.com/drive/1WRS6xiJhoGZ1zarfJZtF7UXkkuDtBJXE)
