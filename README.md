@@ -12,7 +12,7 @@
 
 [Лекция 07.04](https://colab.research.google.com/drive/1K_XUUPFGV316zxT4UvQMv7Cy5B7Ha0-4#scrollTo=1cA2D86IoyaH)
 
-[Лекция 21.04]()
+[Лекция 21.04. Задание с Берсерком](https://colab.research.google.com/drive/1qbqxRqv_Gmwq7Q4vVtnptyk_xa8LZ7eA#scrollTo=0kDGihMZi-VY)
 
 -------------------------------------------------------------------------------------
 
