@@ -11,7 +11,7 @@ PRACTICAL WORKS
 
 [Практическая работа №2 по теме «Наследование»](https://colab.research.google.com/drive/1xPdDUblEX8wLd3tUv3lDrHM977-7HuMS#scrollTo=y3QzLFOP-Ez3)
 
-[Практическая работа №3 по теме «Инкапсуляция»]()
+[Практическая работа №3 по теме «Инкапсуляция»](https://colab.research.google.com/drive/1893MhpIxRrUUha6HK39RuDUsaONbdMIC#scrollTo=dUwWuMM-bBJa)
 
 --------------------------------------------------------------------------------------
 CLASSES
