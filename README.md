@@ -13,6 +13,8 @@ PRACTICAL WORKS
 
 [Практическая работа №3 по теме «Инкапсуляция»](https://colab.research.google.com/drive/1893MhpIxRrUUha6HK39RuDUsaONbdMIC#scrollTo=dUwWuMM-bBJa)
 
+[Практическая работа №4 по тебе «Полиморфизм»]()
+
 --------------------------------------------------------------------------------------
 CLASSES
 --------------------------------------------------------------------------------------
@@ -22,6 +24,8 @@ CLASSES
 [Занятие 2. Парадигмы ООП. Наследование](https://colab.research.google.com/drive/1QFQjgzWbJSLW6HujJPR9-y_hpNHap6Xc#scrollTo=rbnudMuZfGsC)
 
 [Занятие 3. Парадигмы ООП. Инкапсуляция](https://colab.research.google.com/drive/1TZUuT3gTrZ7Xqz0NuRw-jPNSo_ZEa4mh#scrollTo=gyoJYsArQ15I)
+
+[Занятие 4. Парадигмы ООП. Полиморфизм]()
 
 --------------------------------------------------------------------------------------
 LECTURES
