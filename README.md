@@ -13,7 +13,7 @@ PRACTICAL WORKS
 
 [Практическая работа №3 по теме «Инкапсуляция»](https://colab.research.google.com/drive/1893MhpIxRrUUha6HK39RuDUsaONbdMIC#scrollTo=dUwWuMM-bBJa)
 
-[Практическая работа №4 по теме «Полиморфизм»]()
+[Практическая работа №4 по теме «Полиморфизм»](https://colab.research.google.com/drive/1ZJqGzHQ3LvFMazseNHEaCEXSyPZBYu-t#scrollTo=IVsucduzPjnC)
 
 --------------------------------------------------------------------------------------
 CLASSES
