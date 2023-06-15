@@ -25,7 +25,7 @@ CLASSES
 
 [Занятие 3. Парадигмы ООП. Инкапсуляция](https://colab.research.google.com/drive/1TZUuT3gTrZ7Xqz0NuRw-jPNSo_ZEa4mh#scrollTo=gyoJYsArQ15I)
 
-[Занятие 4. Парадигмы ООП. Полиморфизм]()
+[Занятие 4. Парадигмы ООП. Полиморфизм](https://colab.research.google.com/drive/1H3Kctz7hXFx5j_TMRd3LNE6ZSVjtN1mC#scrollTo=fV37ofwDNfWn)
 
 --------------------------------------------------------------------------------------
 LECTURES
